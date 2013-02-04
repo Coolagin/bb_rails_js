@@ -9,7 +9,6 @@ Gem::Specification.new do |s|
   s.version     = BbRailsJs::VERSION
   s.authors     = ["Kulagin Alexey"]
   s.email       = ["kulagin.it@gmail.com"]
-  s.homepage    = "www.coolaginblog.ru"
   s.summary     = "BbRailsJs simple Backbone for rails on JavaScript"
   s.description = "BbRailsJs simple Backbone for rails on JavaScript"
 
