@@ -7,11 +7,11 @@ require "bb_rails_js/version"
 Gem::Specification.new do |s|
   s.name        = "bb_rails_js"
   s.version     = BbRailsJs::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of BbRailsJs."
-  s.description = "TODO: Description of BbRailsJs."
+  s.authors     = ["Kulagin Alexey"]
+  s.email       = ["kulagin.it@gmail.com"]
+  s.homepage    = "www.coolaginblog.ru"
+  s.summary     = "BbRailsJs simple Backbone for rails on JavaScript"
+  s.description = "BbRailsJs simple Backbone for rails on JavaScript"
 
   s.files = Dir["lib/**/*"] + Dir["vendor/**/*"]+["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
